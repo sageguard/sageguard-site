@@ -12,3 +12,11 @@ end
 get '/portfolio' do
   erb :portfolio
 end
+
+get '/venture' do
+  erb :venture
+end
+
+get '/wealthlogix' do
+  erb :wealthlogix
+end

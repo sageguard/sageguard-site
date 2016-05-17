@@ -48,7 +48,7 @@ a.hover-color, .blog-post-title a:hover, .news-post-cat a:hover {
   transition: all 0.3s ease-in;
 }
 a.hover-color:hover, .blog-post-title a:hover, .news-post-cat a:hover {
-  color: #0FAF97 !important;
+  color: #317697 !important;
   -moz-transition: all 0.3s ease-in;
   -o-transition: all 0.3s ease-in;
   -webkit-transition: all 0.3s ease-in;
@@ -644,12 +644,12 @@ div#preloader {
 .top-bar .info li {
   font-size: 14px;
   line-height: 40px;
-  color: #555;
+  color: #317697;
   font-weight: 500;
   font-size: 13px;
 }
 .top-bar .info li a {
-  color: #555;
+  color: #317697;
   margin-right: 10px;
   text-decoration: none;
 }
@@ -2891,4 +2891,8 @@ a.carousel-control i {
 .radio-cehckboxed li label {
   margin-left: 10px;
   vertical-align: middle;
+}
+
+#otherSites ul {
+  list-style-type: none;
 }
